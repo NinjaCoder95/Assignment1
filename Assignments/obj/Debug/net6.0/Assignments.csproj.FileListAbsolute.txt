@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Assignments\Assignments\bin\Debug\net6.0\Assignments.deps.json
+C:\Users\Admin\source\repos\Assignments\Assignments\bin\Debug\net6.0\Assignments.dll
+C:\Users\Admin\source\repos\Assignments\Assignments\bin\Debug\net6.0\Assignments.pdb
+C:\Users\Admin\source\repos\Assignments\Assignments\obj\Debug\net6.0\Assignments.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Assignments\Assignments\obj\Debug\net6.0\Assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Assignments\Assignments\obj\Debug\net6.0\Assignments.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Assignments\Assignments\obj\Debug\net6.0\Assignments.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Assignments\Assignments\obj\Debug\net6.0\Assignments.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Assignments\Assignments\obj\Debug\net6.0\Assignments.dll
+C:\Users\Admin\source\repos\Assignments\Assignments\obj\Debug\net6.0\refint\Assignments.dll
+C:\Users\Admin\source\repos\Assignments\Assignments\obj\Debug\net6.0\Assignments.pdb
+C:\Users\Admin\source\repos\Assignments\Assignments\obj\Debug\net6.0\ref\Assignments.dll
